@@ -49,6 +49,10 @@ Tasks included:
 - Disabling root SSH access
 - Verifying configuration changes through the command line
 
+#### Samba Access Control Configuration
+
+![Samba Access Control Configuration](Screenshot%202026-09-08%20123223.png)
+
 ### pfSense
 
 pfSense remediation focused on protecting firewall administration and limiting access to authorized users.
@@ -60,6 +64,10 @@ Tasks included:
 - Strengthening administrative access controls
 - Configuring secure management access
 - Testing and validating access after remediation
+
+#### pfSense Administrative Access Control
+
+![pfSense Administrative Access Control](Screenshot%202026-09-08%20123255.png)
 
 ## 🛠️ Technologies & Skills
 
